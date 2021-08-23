@@ -3,7 +3,6 @@
 
 - 🔭 Hoje eu trabalho ainda apenas com projetos pessoais
 - 🌱 Estudando desenvolvimeto Front-End
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/EdvanLSBJunior">
