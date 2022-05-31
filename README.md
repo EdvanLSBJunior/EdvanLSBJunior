@@ -1,6 +1,6 @@
 ## Olá eu sou Edvan Lázaro 👋
 
-- 🌱 Desenvolvedor FullStack em formação pelo DevInHouse SENAI/ACATE
+- 🌱 Desenvolvedor FullStack em formação pelo DevInHouse SENAI / ACATE
 - 🔭 Associate Developer at Involves
 
 
