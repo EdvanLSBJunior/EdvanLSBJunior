@@ -13,7 +13,7 @@
     <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvanLSBJunior&layout=compact&langs_count=7&theme=radical"/>
   </p>   -->
   <p>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdvanLSBJunior&hide=css,java,html&theme=radical">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdvanLSBJunior&hide=html&theme=radical">
   </p>
 </div>
 <div style="display: inline_block"><br>
