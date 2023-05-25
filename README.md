@@ -26,6 +26,8 @@
   <img align="center" alt="Ed-Nuxt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="Ed-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Ed-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+  <img align="center" alt="Ed-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Ed-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
   
 ##
