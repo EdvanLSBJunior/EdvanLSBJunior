@@ -1,7 +1,9 @@
 ## Olá eu sou Edvan Lázaro 👋
 
 - 🌱 Desenvolvedor FullStack formado pelo DevInHouse SENAI / ACATE.
-- 🔭 Desenvolvedor FullStack na empresa Pixeon.
+- ⌨ Desenvolvedor FullStack na empresa Pixeon.
+- 💻 Apaixonado por tecnologia.
+- 🎮 Gamer
 
 
 <div>
