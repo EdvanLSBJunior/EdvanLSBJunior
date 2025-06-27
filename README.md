@@ -19,16 +19,26 @@
   </p>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Ed-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Ed-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-  <img align="center" alt="Ed-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Ed-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Ed-Nuxt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />
-  <img align="center" alt="Ed-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ed-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
-  <img align="center" alt="Ed-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Nuxt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Maven" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" />
+  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Playwright" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" />
+  <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
+  <img align="center" alt="Rancher" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" />
+  <img align="center" alt="Dbeaver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+  <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" />
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 </div>
   
 ##
